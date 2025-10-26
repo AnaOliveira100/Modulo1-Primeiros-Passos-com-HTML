@@ -27,19 +27,22 @@
 <small><a href="#inicio">(Voltar)</a></small>
 
 <p>
-A historia dos computadores começou em 1944 epoca da 2ª guerra mundial, a finalidade era descobrir as espionagens entre Estados           Unidos e Alemanha.
+A historia dos computadores começou em 1944 epoca da 2ª guerra mundial, a finalidade era descobrir as espionagens entre EstadosUnidos e Alemanha.
 1ª geração Harvard Mark 1 (1944) foi o primeiro computador eletro mecanico, fazia diverso tipos de calculos.
 1ª geração Colossus (1946) foi o computador criado pela Alemanha, fazia criptoanalises e calculos para a guerra.
 1ª geração ENIAC (1946) foi criado pelo Estados Unidos, e era um computador automatico e fazia calculos ja avançados para epoca,
-  porem devido ao superaquecimento das maquinas, atraia muito insetos e estragava essas maquinas, foi quando começou a ser usado o          termo <i> <u> <strong>BUG</strong> </u> </i> por causa disso.
+porem devido ao superaquecimento das maquinas, atraia muito insetos e estragava essas maquinas, foi quando começou a ser usado o
+termo <i> <u> <strong>BUG</strong> </u> </i> por causa disso.
 </p>
     
 <h2 id="clients"> O que são <i>Clients</i>?</a></li></h2>
 <small><a href="#inicio">(Voltar)</a></small>
 
 <p>
-São os que consomem informações, clients se comunicam através da internet , quando as pessoas digita www e da enter no site envia um arquivo para outro computador que depois devolve o arquivo para o seu computador.
-Clients conceito são os arquivos enviados atraves da velocidade de conexão, arquivos estaticos que são htms,css,javascript com            tamanhos de imagens e varios dispositivos usados notebook pc tv celulares tablets compatibilidade.
+São os que consomem informações, clients se comunicam através da internet , quando as pessoas digita www e da enter no site envia um arquivo
+para outro computador que depois devolve o arquivo para o seu computador.
+Clients conceito são os arquivos enviados atraves da velocidade de conexão, arquivos estaticos que são htms,css,javascript com  tamanhos de imagens
+e varios dispositivos usados notebook pc tv celulares tablets compatibilidade.
 Navegadores são programas criadas por empresas para abrir ou executar arquivos e seguem padrões W3C em varias empresas.
 </p>
    
@@ -48,7 +51,9 @@ Navegadores são programas criadas por empresas para abrir ou executar arquivos 
 
 <p>
 Servidor serve as informações para os clientes no site para hospedar arquivo no servidor, o servidor processa arquivos estáticos,
-os navegadores buscam informações de aquivos atualizados, navegadores tem que ter compatibilidade, são divididos em  arquivos e centraliza onde todos podem acessar arquivos, importante ter a segurança firewall, os streaming de vídeos usam muitos dados e o E-mail tambem precisam de muito armazenamento, por isso precisam de servidores gigantes que sao chamados de data center.
+os navegadores buscam informações de aquivos atualizados, navegadores tem que ter compatibilidade, são divididos em  arquivos e centraliza onde todos 
+podem acessar arquivos, importante ter a segurança firewall, os streaming de vídeos usam muitos dados e o E-mail tambem precisam de muito armazenamento,
+por isso precisam de servidores gigantes que sao chamados de data center.
 </p>
 
 <h2 id="html"> Como é uma estrutura básica de um HTML?</h2>
